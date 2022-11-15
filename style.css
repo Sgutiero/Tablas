@@ -1,0 +1,59 @@
+.container{
+    width: 500px;
+}
+
+h1{
+    background-color: red;
+    text-align: center;
+}
+
+.descuento{
+    background-color: aqua;
+    width: 150px;
+    text-align: right;
+}
+
+.iva{
+    background-color: aqua;
+    text-align: right;
+}
+
+.valor{
+    width: 100px;
+    text-align: right;
+}
+
+.valor-2{
+    text-align: right;
+}
+
+.fondo{
+    background-color: aquamarine;
+}
+
+
+.tabla-2{
+    border: 2px solid black;
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 700px;
+}
+
+th, tr, td{
+    border: 2px solid black;
+    text-align: center;
+}
+
+
+
+.tabla-3{
+    border: 2px solid aqua;
+}
+
+.day, .monday, .tuesday, .wednesday{
+    background-color: aqua;
+}
+
+.seminar, .begin, .end{
+    background-color: aquamarine;
+}
